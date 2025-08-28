@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "babel-plugin-transform-remove-strict-mode": "0.0.2",
     "clipboard": "^2.0.0",
-    "codemirror": "^5.38.0",
+    "codemirror": "^6.0.0",
     "countup": "^1.8.2",
     "cropperjs": "^1.2.2",
     "crypto-js": "^3.1.9-1",
